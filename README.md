@@ -1,7 +1,4 @@
 # basic-proteus-codes-and-circuit-
-Here is the same content **without emojis**, clean and professional for your GitHub README:
-
----
 
 # PIC Microcontroller – Proteus Simulation Projects Repository
 
@@ -51,5 +48,3 @@ By working with these projects, users can learn:
 Open the Proteus project file, load the corresponding HEX file into the PIC microcontroller, and run the simulation to observe the system behavior. These projects can be customized and extended for academic submissions and real hardware implementation.
 
 ---
-
-If you want, I can also make it **more academic**, **shorter**, or **portfolio-style README**.
